@@ -1,0 +1,12 @@
+.box {
+  width: 70vw;
+  margin: 0 auto;
+  text-align: center;
+}
+.box img {
+  margin: 1vw auto;
+  width: 100%;
+}
+.box .gif {
+  width: 50%;
+}

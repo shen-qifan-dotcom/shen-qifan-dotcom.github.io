@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="431px" height="229px" viewBox="0 0 431 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 6</title>
+    <defs>
+        <filter x="-20.3%" y="-36.7%" width="140.7%" height="173.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="12 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="100%" y1="44.8982764%" x2="0%" y2="52.4448163%" id="linearGradient-2">
+            <stop stop-color="#2A1483" offset="0%"></stop>
+            <stop stop-color="#2A1483" stop-opacity="0" offset="16.1269736%"></stop>
+            <stop stop-color="#2A1483" stop-opacity="0" offset="71.5336538%"></stop>
+            <stop stop-color="#2A1483" stop-opacity="0.261582168" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-11.6%" y="-22.8%" width="123.1%" height="145.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="10 0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <polygon id="path-4" points="89.53155 122.997854 0 102.501437 0 41.3573334 99.2537914 58.130436 125.260156 35.8555472 190.869145 69.0801966 296.473513 0 296.473513 61.1441032 269.980246 79.7261427 277.02903 82.2750766 277.02903 143.41918 175.138228 135.642132 93.7983222 168.979418"></polygon>
+        <linearGradient x1="38.2989152%" y1="25.5275907%" x2="65.0324904%" y2="43.0589397%" id="linearGradient-6">
+            <stop stop-color="#49B2D3" offset="0%"></stop>
+            <stop stop-color="#3E23A8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="86.7346939%" y1="74.7394811%" x2="13.2653061%" y2="70.095694%" id="linearGradient-7">
+            <stop stop-color="#4258B8" offset="0%"></stop>
+            <stop stop-color="#3E23A8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="52.2187519%" x2="-52.595432%" y2="52.2187519%" id="linearGradient-8">
+            <stop stop-color="#BFEFFD" offset="0%"></stop>
+            <stop stop-color="#3E23A8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.7600735%" y1="45.334021%" x2="92.7787764%" y2="55.3908985%" id="linearGradient-9">
+            <stop stop-color="#91EDFF" offset="0%"></stop>
+            <stop stop-color="#4F31C7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="177 0 177 23.2097907 142.885495 46.8166547 142.886268 121 0 108.295522 0 85.0857314 129.869501 93.2710812 129.870273 19.112387"></polygon>
+        <linearGradient x1="100%" y1="53.913302%" x2="0%" y2="53.1787457%" id="linearGradient-12">
+            <stop stop-color="#79A7EB" offset="0%"></stop>
+            <stop stop-color="#3E23A8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-27.10134%" y1="41.6060228%" x2="77.1455776%" y2="48.6743692%" id="linearGradient-13">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-27.10134%" y1="47.1773599%" x2="77.1455776%" y2="49.5542305%" id="linearGradient-14">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-157.000000, -3182.000000)">
+            <g id="编组-8" transform="translate(157.588319, 3182.545199)">
+                <g id="编组-6" transform="translate(0.000000, -0.000000)">
+                    <g id="编组-5备份" transform="translate(-0.000000, -0.000000)">
+                        <polygon id="路径-2备份-2" fill="#5844A8" fill-rule="nonzero" filter="url(#filter-1)" points="372.44278 91.454801 389.411681 91.454801 355.297176 115.112309 355.297949 189.454801 212.411681 176.723068 234.867261 168.298761 342.281182 176.723068 342.281954 110.60819"></polygon>
+                        <path d="M164.017696,38.0557998 L243.20304,78.1555686 L417.284911,87.2374023 L367.966391,122.182794 L367.966391,199.742466 L213.158851,186.868566 L127.304608,227.255737 L118.426984,158.915332 L1.96350182,128.943811 L132.514665,93.7840671 L164.017696,38.0557998 Z" id="星形备份-2" stroke="url(#linearGradient-2)" opacity="0.404660247"></path>
+                        <polygon id="星形备份-3" fill="#2A1483" opacity="0.390579578" filter="url(#filter-3)" points="167.67999 62.6969757 343.411681 80.9666091 399.432498 88.181606 347.961014 123.379416 356.528107 187.377928 240.239254 171.963027 186.523584 194.267974 141.411681 194.267974 141.079672 175.250463 139.811795 102.626459"></polygon>
+                        <g id="矩形" transform="translate(47.399477, 25.288556)">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="蒙版" fill="#DFDFDF" xlink:href="#path-4"></use>
+                            <rect fill="url(#linearGradient-6)" mask="url(#mask-5)" x="-15.9877958" y="20.166245" width="106" height="183"></rect>
+                            <polygon id="矩形备份-33" fill="url(#linearGradient-7)" mask="url(#mask-5)" points="175.012204 20.166245 277.012204 82.2924216 277.012204 139.166245 175.012204 139.166245"></polygon>
+                            <rect id="矩形备份-32" fill="#2A1483" mask="url(#mask-5)" x="94.0122042" y="40.166245" width="81" height="183"></rect>
+                            <polygon id="矩形备份-34" fill="#2A1483" mask="url(#mask-5)" points="215.012204 4.24990188 296.012204 -2.83375504 296.012204 82.426609 215.012204 76.4177574"></polygon>
+                            <rect id="矩形备份-31" fill="url(#linearGradient-8)" mask="url(#mask-5)" x="90.0122042" y="40.166245" width="4" height="183"></rect>
+                        </g>
+                        <polygon id="星形" fill="url(#linearGradient-9)" points="136.931027 87.1423065 47.3994768 66.6458894 146.653268 46.0047682 172.659633 -1.56319402e-13 238.268622 33.2246493 343.872989 25.288556 285.167783 66.4636398 324.428507 107.563633 222.537705 99.7865845 141.197799 133.12387"></polygon>
+                        <g id="编组-4" transform="translate(204.411681, 68.454801)">
+                            <g id="矩形备份-33">
+                                <mask id="mask-11" fill="white">
+                                    <use xlink:href="#path-10"></use>
+                                </mask>
+                                <use id="蒙版" fill="#2A1483" fill-rule="nonzero" xlink:href="#path-10"></use>
+                                <polygon fill="url(#linearGradient-12)" mask="url(#mask-11)" points="0 74.7018537 143 72.1261766 143 129 0 129"></polygon>
+                            </g>
+                            <polygon id="路径-2备份-2" fill="#FFFFFF" fill-rule="nonzero" points="160.031099 0 177 1.7579255e-13 142.885495 23.6575081 142.886268 98 0 85.268267 22.45558 76.8439604 129.869501 85.268267 129.870273 19.1533891"></polygon>
+                        </g>
+                    </g>
+                    <polygon id="星形" fill="url(#linearGradient-13)" points="175.191461 8.52355414 236.237977 43.4054482 220.937023 89.6353218 149.319187 117.454801 146.653268 83.418992 72.8376534 66.5619352 152.112955 52.7724607"></polygon>
+                    <polygon id="星形备份" fill="url(#linearGradient-14)" points="174.653268 83.418992 100.837653 66.5619352 180.112955 52.7724607"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
